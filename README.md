@@ -53,8 +53,8 @@
 
 > manifesto --ecoar
 
-"Não programo apenas para máquinas.  
-Programo para libertar, comunicar, incluir e hackear o impossível."
+"Escrevo porque sou contra a miséria."
+— Carolina Maria de Jesus
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
